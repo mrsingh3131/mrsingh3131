@@ -10,13 +10,13 @@ So, lets jump right in and if you have ideas that require frontend development o
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400">
   <h2> Lets See </h2>
 
-  - 👨🏽‍💻 I’m currently working on Breast Cancer Detection.
+  - 👨🏽‍💻&nbsp; I’m currently working on Breast Cancer Detection.
   - :cowboy_hat_face:&nbsp; I currently hold the position of Joint Head for M.Tech with CDGC, PEC Chandigarh.
   - :see_no_evil:	 I’m looking for opportunities. If you have one or can refer me that would be great.
   - I will finish my Degree in 2021. A job referral would be a cherry on the cake:sweat_smile:
-  - 💬 When the world is already a global village why haven't we talked yet.
-  - ⚡️ Fun-Fact: My friends say I am great to talk to. So if you have any problems life, relationships, management drop me a text. My juniors once approached me with their queries from syllabus. Problem was they were pursuing Electrical Engineering, and we learned so much together. Never knew Kirchhoff's Law was that handy. So yeah ping me I love to talk and listen.
-  - 📝 Just in case if you want to share it. Here's my [Resume](https://drive.google.com/file/d/1LKEW9xaA4OlSB9wteHD9JO9UduqZmIHF/view?usp=sharing)
+  - :speech_balloon:&nbsp; When the world is already a global village why haven't we talked yet.
+  - :zap:&nbsp; Fun-Fact: My friends say I am great to talk to. So if you have any problems life, relationships, management drop me a text. My juniors once approached me with their queries from syllabus. Problem was they were pursuing Electrical Engineering, and we learned so much together. Never knew Kirchhoff's Law was that handy. So yeah ping me I love to talk and listen.
+  - :palms_up_together: &nbsp; Just in case if you want to share it. Here's my [Resume](https://drive.google.com/file/d/1LKEW9xaA4OlSB9wteHD9JO9UduqZmIHF/view?usp=sharing)
 
 
 <h2> My little world </h2>
