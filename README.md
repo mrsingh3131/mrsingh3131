@@ -8,7 +8,7 @@ I am a machine learning enthusiast and passionate about Data Structures and Algo
 
 So, lets jump right in and if you have ideas that require frontend development or backend development or developing machine learning model or computer vision we may start right now or if you have something else in mind let me catch up to you and we will be good to go :heart:
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400">
-  <h2> Talking about Personal Stuffs: </h2>
+  <h2> Lets See </h2>
 
   - 👨🏽‍💻 I’m currently working on Breast Cancer Detection.
   - :cowboy_hat_face: I currently hold the position of Joint Head for M.Tech with CDGC, PEC Chandigarh.
