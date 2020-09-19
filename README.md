@@ -20,18 +20,20 @@ Here are some ideas to get you started:
 </em></p> -->
 <br />
 <br />
-Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreactiveCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee [@IncubateIND](https://www.linkedin.com/in/imaginativeone/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+I am a machine learning enthusiast and passionate about Data Structures and Algorithms. My vision is to develop or be a part of a product that impacts and improves the lives of people. I believe that if our knowledge or skill set doesn't helps the world around us we need to change it as soon as possible. Even the tiniest bee with its daily chore knowingly or unknowingly transfers the pollen and the world would not exist as we know if the bees are eradicated.
 <br />
+SO, lets jump right in and if you have ideas that require frontend development or backend development or developing machine learning model or computer vision we may start right now or if you have something else in mind let me catch up to you and we will be good to go :heart:.  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400">
   <h2> Talking about Personal Stuffs: </h2>
 
-  - 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
-  - 🌱 I’m currently learning GraphQL and C++;
-  - 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
-  - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-  - 💬 Ask me about anything, I am happy to help;
-  - ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
-  - 📫 How to reach me: geekyabhi12@gmail.com;
+  - 👨🏽‍💻 I’m currently working on Breast Cancer Detection;
+
+  - 👯 I currently hold the position of Joint Head for M.Tech with CDGC, PEC Chandigarh;
+  - 🌱 I’m looking for opportunities. If you have one or can refer me that would be great.;
+  - 🤔 I will finish my Degree in 2021. A job referral would also be a cherry on the cake:sweat_smile:;
+  - 💬 When the world is already a global village why haven't we talked yet.;
+  - ⚡️ Fun-Fact: My friends say I am great to talk to. So if you have any problems life, relationships, management. My juniors approached me with their queries from syllabus. Problem was they were pursuing Electrical Engineering. And we learned so much together. Never knew Kirchoff's Law was that handy. So yeah ping me I love to talk and listen.
+  <!-- - 📫 How to reach me: geekyabhi12@gmail.com; -->
   - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
 
 
