@@ -11,7 +11,7 @@ So, lets jump right in and if you have ideas that require frontend development o
   <h2> Lets See </h2>
 
   - 👨🏽‍💻 I’m currently working on Breast Cancer Detection.
-  - :cowboy_hat_face: I currently hold the position of Joint Head for M.Tech with CDGC, PEC Chandigarh.
+  - :cowboy_hat_face:&nbsp; I currently hold the position of Joint Head for M.Tech with CDGC, PEC Chandigarh.
   - :see_no_evil:	 I’m looking for opportunities. If you have one or can refer me that would be great.
   - I will finish my Degree in 2021. A job referral would be a cherry on the cake:sweat_smile:
   - 💬 When the world is already a global village why haven't we talked yet.
