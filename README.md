@@ -1,7 +1,11 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Jaskaran Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+
 <br />
+
 I am a machine learning enthusiast and passionate about Data Structures and Algorithms. My vision is to develop or be a part of a product that impacts and improves the lives of people. I believe that if our knowledge or skill set doesn't helps the world around us we need to change it as soon as possible. Even the tiniest bee with its daily chore knowingly or unknowingly transfers the pollen and the world would not exist as we know if the bees are eradicated.
+
 <br />
+
 So, lets jump right in and if you have ideas that require frontend development or backend development or developing machine learning model or computer vision we may start right now or if you have something else in mind let me catch up to you and we will be good to go :heart:.  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400">
   <h2> Talking about Personal Stuffs: </h2>
