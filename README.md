@@ -12,8 +12,8 @@ SO, lets jump right in and if you have ideas that require frontend development o
   - 🌱 I’m looking for opportunities. If you have one or can refer me that would be great.
   - 🤔 I will finish my Degree in 2021. A job referral would also be a cherry on the cake:sweat_smile:
   - 💬 When the world is already a global village why haven't we talked yet.
-  - ⚡️ Fun-Fact: My friends say I am great to talk to. So if you have any problems life, relationships, management. My juniors approached me with their queries from syllabus. Problem was they were pursuing Electrical Engineering. And we learned so much together. Never knew Kirchhoff's Law was that handy. So yeah ping me I love to talk and listen.
-  - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
+  - ⚡️ Fun-Fact: My friends say I am great to talk to. So if you have any problems life, relationships, management drop me a text. My juniors approached me with their queries from syllabus. Problem was they were pursuing Electrical Engineering. And we learned so much together. Never knew Kirchhoff's Law was that handy. So yeah ping me I love to talk and listen.
+  - 📝 Just in case if you want to share it. Here's my [Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
 
 
 <h2> My little world </h2>
