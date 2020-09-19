@@ -19,7 +19,6 @@ SO, lets jump right in and if you have ideas that require frontend development o
 <h2> My little world </h2>
    <p float="left">
 
-   <!-- - Want to stalk or connect with me?, Here's my Linkedin Handle <a href="https://www.linkedin.com/in/imaginativeone/">Linkedin Handle</a>ℹ️ -->
 
    - Want to stalk or connect with me?, Here's my Linkedin Handle [Linkedin Handle](https://www.linkedin.com/in/imaginativeone/)
    - You won't find me on Social Media but if you have comments or recommendations or want to know me. Here's [my website](http://suitup)💭✍🏾
