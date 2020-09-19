@@ -40,7 +40,7 @@ SO, lets jump right in and if you have ideas that require frontend development o
 <h2> **My little world** </h2>
    <p float="left">
 
-   - Stalk Me Here[![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/imaginativeone/)
+   - Stalk Me Here&nbsp;&nbsp;[![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/imaginativeone/)
    - Expressing my own views and interacting with humans on <a href="https://twitter.com/muskanvkk"> Twitter</a> 💭✍🏾
    - Sharing updates about myself on <a href="https://www.linkedin.com/in/muskanvk/">LinkedIn</a> 📖
 
