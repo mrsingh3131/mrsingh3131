@@ -22,7 +22,7 @@ Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-  **Talking about Personal Stuffs:**
+  <h2> **Talking about Personal Stuffs:** </h2>
 
   - 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
   - 🌱 I’m currently learning GraphQL and C++;
