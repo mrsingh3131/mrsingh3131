@@ -43,7 +43,7 @@ SO, lets jump right in and if you have ideas that require frontend development o
    <!-- - Want to stalk or connect with me?, Here's my Linkedin Handle <a href="https://www.linkedin.com/in/imaginativeone/">Linkedin Handle</a>ℹ️ -->
 
    - Want to stalk or connect with me?, Here's my Linkedin Handle [Linkedin Handle](https://www.linkedin.com/in/imaginativeone/)
-   - You won't find me on Social Media but if you have comments or recommendations or want to know me. Here's [my website](http://suitup.ml)💭✍🏾
+   - You won't find me on Social Media but if you have comments or recommendations or want to know me. Here's [my website](http://suitup)💭✍🏾
    - Have something on mind? Mail it to [this id](mailto:jaskaran.pta@gmail.com) 📖
 <!--
 [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/imaginativeone/) &nbsp;&nbsp;
