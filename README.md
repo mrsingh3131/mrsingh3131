@@ -1,5 +1,4 @@
-### Hi there1 👋
-
+### Hi there 👋
 <!--
 **mrsingh3131/mrsingh3131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h2> I'm Saravanan Selvamohan <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p><em>Research & Development Engineer at <a href="https://tekclansolutions.com/">Tekclan</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
