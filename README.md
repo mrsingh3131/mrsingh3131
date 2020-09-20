@@ -1,4 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻 ,&nbsp; I'm Jaskaran Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>नमस्ते (Namaste):pray: ,&nbsp; I'm Jaskaran Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <br />
 
@@ -6,11 +6,11 @@ I am a machine learning enthusiast and passionate about Data Structures and Algo
 
 <br />
 
-So, lets jump right in and if you have ideas that require frontend development or backend development or developing machine learning model or computer vision we may start right now or if you have something else in mind let me catch up to you and we will be good to go :heart:
+So, let'ss jump right in and if you have ideas that require frontend development or backend development or developing machine learning model or computer vision we may start right now or if you have something else in mind let me catch up to you and we will be good to go :heart:
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400">
-  <h2> Lets See </h2>
+  <h2> Let's See </h2>
 
-  - ‍:technologist:&nbsp; I’m currently working on Breast Cancer Detection.
+  - :technologist:&nbsp; I’m currently working on Breast Cancer Detection.
   - :cowboy_hat_face:&nbsp; I currently hold the position of Joint Head for M.Tech with CDGC, PEC Chandigarh.
   - :see_no_evil:	&nbsp;  I’m looking for opportunities. If you have one or can refer me that would be great.
   - I will finish my Degree in 2021. A job referral would be a cherry on the cake :sweat_smile:
