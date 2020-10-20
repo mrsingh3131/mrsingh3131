@@ -6,7 +6,7 @@ I am a machine learning enthusiast and passionate about Data Structures and Algo
 
 <br />
 
-So, let'ss jump right in and if you have ideas that require frontend development or backend development or developing machine learning model or computer vision we may start right now or if you have something else in mind let me catch up to you and we will be good to go :heart:
+So, let's jump right in and if you have ideas that require frontend development or backend development or developing machine learning model or computer vision we may start right now or if you have something else in mind let me catch up to you and we will be good to go :heart:
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400">
   <h2> Let's See </h2>
 
