@@ -22,5 +22,5 @@ So, let's jump right in and if you have ideas that require frontend development 
 <h2> My little world </h2>
 
    - Want to stalk or connect with me?, Here's my [LinkedIn Handle.](https://www.linkedin.com/in/imaginativeone/)
-   - You won't find me on Social Media but if you have comments or recommendations or want to know me. Here's [My Website.](http://suitup.ml)
+   - You won't find me on Social Media but if you have comments or recommendations or want to know me. Here's [My Website.](http://drown.ml)
    - Have something on mind? Mail it to my [Email-id.](mailto:jaskaran.pta@gmail.com)
