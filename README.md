@@ -1,12 +1,20 @@
 <div align="center">
 
-<img width="100%" alt="Jaskaran Singh — building public data infrastructure at national scale" src="https://capsule-render.vercel.app/api?type=waving&color=0:031B12,45:00A86B,100:00FFA3&height=230&section=header&text=Jaskaran%20Singh&fontSize=62&fontColor=E8FFF4&fontAlignY=38&animation=fadeIn&desc=public%20data%20infrastructure%20%C2%B7%20national%20scale%20%C2%B7%20and%20I%20still%20ship%20code&descSize=17&descAlignY=60" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:241A3D,100:4A3A78&height=230&section=header&text=Jaskaran%20Singh&fontSize=62&fontColor=EDE7FB&fontAlignY=38&animation=fadeIn&desc=public%20data%20infrastructure%20%C2%B7%20national%20scale%20%C2%B7%20and%20I%20still%20ship%20code&descSize=17&descAlignY=60">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EDE7FB,100:CBBEF1&height=230&section=header&text=Jaskaran%20Singh&fontSize=62&fontColor=241A3D&fontAlignY=38&animation=fadeIn&desc=public%20data%20infrastructure%20%C2%B7%20national%20scale%20%C2%B7%20and%20I%20still%20ship%20code&descSize=17&descAlignY=60">
+  <img width="100%" alt="Jaskaran Singh — building public data infrastructure at national scale" src="https://capsule-render.vercel.app/api?type=waving&color=0:241A3D,100:4A3A78&height=230&section=header&text=Jaskaran%20Singh&fontSize=62&fontColor=EDE7FB&fontAlignY=38&animation=fadeIn&desc=public%20data%20infrastructure%20%C2%B7%20national%20scale%20%C2%B7%20and%20I%20still%20ship%20code&descSize=17&descAlignY=60">
+</picture>
 
-<img alt="rotating roles" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=00FFA3&center=true&vCenter=true&width=920&height=62&lines=Assistant+Director+%40+NIC+%C2%B7+MeitY%2C+Govt+of+India;I+build+India%27s+Open+Government+Data+platform;PhD+candidate+%40+IIT+Delhi+%E2%80%94+geospatial+ML;Data+pipelines+at+national+scale...+and+I+still+ship+code;Now+shipping+an+air-gapped+RAG+stack+%E2%80%94+zero+egress" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=B49BF5&center=true&vCenter=true&width=920&height=62&lines=Assistant+Director+%40+NIC+%C2%B7+MeitY%2C+Govt+of+India;I+build+India%27s+Open+Government+Data+platform;PhD+candidate+%40+IIT+Delhi+%E2%80%94+geospatial+ML;Data+pipelines+at+national+scale...+and+I+still+ship+code;Now+shipping+an+air-gapped+RAG+stack+%E2%80%94+zero+egress">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=6D48D7&center=true&vCenter=true&width=920&height=62&lines=Assistant+Director+%40+NIC+%C2%B7+MeitY%2C+Govt+of+India;I+build+India%27s+Open+Government+Data+platform;PhD+candidate+%40+IIT+Delhi+%E2%80%94+geospatial+ML;Data+pipelines+at+national+scale...+and+I+still+ship+code;Now+shipping+an+air-gapped+RAG+stack+%E2%80%94+zero+egress">
+  <img alt="rotating roles" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=B49BF5&center=true&vCenter=true&width=920&height=62&lines=Assistant+Director+%40+NIC+%C2%B7+MeitY%2C+Govt+of+India;I+build+India%27s+Open+Government+Data+platform;PhD+candidate+%40+IIT+Delhi+%E2%80%94+geospatial+ML;Data+pipelines+at+national+scale...+and+I+still+ship+code;Now+shipping+an+air-gapped+RAG+stack+%E2%80%94+zero+egress">
+</picture>
 
-<a href="https://karan98.in"><img alt="profile views" src="https://komarev.com/ghpvc/?username=sudo-karan&style=for-the-badge&color=00FFA3&label=DATA+STREAMS" /></a>
-<img alt="open to collaboration and research" src="https://img.shields.io/badge/%E2%97%89%20open%20to-collab%20%2B%20research-00FFA3?style=for-the-badge&labelColor=031B12" />
-<img alt="location New Delhi" src="https://img.shields.io/badge/New%20Delhi-IN%20%C2%B7%20UTC%2B5%3A30-10B981?style=for-the-badge&labelColor=031B12" />
+<a href="https://karan98.in"><img alt="profile views" src="https://komarev.com/ghpvc/?username=sudo-karan&style=for-the-badge&color=6D48D7&label=DATA+STREAMS" /></a>
+<img alt="open to collaboration and research" src="https://img.shields.io/badge/%E2%97%89%20open%20to-collab%20%2B%20research-6D48D7?style=for-the-badge&labelColor=241A3D" />
+<img alt="location New Delhi" src="https://img.shields.io/badge/New%20Delhi-IN%20%C2%B7%20UTC%2B5%3A30-5B3DBF?style=for-the-badge&labelColor=241A3D" />
 
 </div>
 
@@ -35,10 +43,10 @@
 
 <div align="center">
 
-<img alt="4+ years at NIC" src="https://img.shields.io/badge/NIC%20%C2%B7%20Govt%20of%20India-4%2B%20years-00FFA3?style=for-the-badge&labelColor=031B12" />
-<img alt="M.Tech CGPA 9.60" src="https://img.shields.io/badge/M.Tech%20CGPA-9.60%2F10-00E676?style=for-the-badge&labelColor=031B12" />
-<img alt="OGD platform national scale" src="https://img.shields.io/badge/OGD%20platform-national%20scale-10B981?style=for-the-badge&labelColor=031B12" />
-<img alt="20+ projects shipped" src="https://img.shields.io/badge/shipped-20%2B%20projects-34D399?style=for-the-badge&labelColor=031B12" />
+<img alt="4+ years at NIC" src="https://img.shields.io/badge/NIC%20%C2%B7%20Govt%20of%20India-4%2B%20years-5B3DBF?style=for-the-badge&labelColor=241A3D" />
+<img alt="M.Tech CGPA 9.60" src="https://img.shields.io/badge/M.Tech%20CGPA-9.60%2F10-6D48D7?style=for-the-badge&labelColor=241A3D" />
+<img alt="OGD platform national scale" src="https://img.shields.io/badge/OGD%20platform-national%20scale-5B3DBF?style=for-the-badge&labelColor=241A3D" />
+<img alt="20+ projects shipped" src="https://img.shields.io/badge/shipped-20%2B%20projects-6D48D7?style=for-the-badge&labelColor=241A3D" />
 
 </div>
 
@@ -89,11 +97,11 @@ status:             SHIPPING ▓▓▓▓▓▓▓▓░░
 
 | layer | modules |
 |:-----:|:-------:|
-| `languages` | <img alt="languages" src="https://skillicons.dev/icons?i=python,java,kotlin,ts,js,c,cpp&theme=dark" /> |
-| `ai · ml · nlp` | <img alt="ai and ml" src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" /> |
-| `backend · cloud` | <img alt="backend and cloud" src="https://skillicons.dev/icons?i=docker,fastapi,elasticsearch,postgres,supabase,azure,gcp&theme=dark" /> |
-| `web · mobile` | <img alt="web and mobile" src="https://skillicons.dev/icons?i=react,vite,androidstudio,gradle&theme=dark" /> |
-| `tooling` | <img alt="tooling" src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" /> |
+| `languages` | <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,kotlin,ts,js,c,cpp&theme=light"><img alt="languages" src="https://skillicons.dev/icons?i=python,java,kotlin,ts,js,c,cpp&theme=dark" /></picture> |
+| `ai · ml · nlp` | <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=light"><img alt="ai and ml" src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" /></picture> |
+| `backend · cloud` | <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,fastapi,elasticsearch,postgres,supabase,azure,gcp&theme=light"><img alt="backend and cloud" src="https://skillicons.dev/icons?i=docker,fastapi,elasticsearch,postgres,supabase,azure,gcp&theme=dark" /></picture> |
+| `web · mobile` | <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vite,androidstudio,gradle&theme=light"><img alt="web and mobile" src="https://skillicons.dev/icons?i=react,vite,androidstudio,gradle&theme=dark" /></picture> |
+| `tooling` | <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,linux&theme=light"><img alt="tooling" src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" /></picture> |
 
 <sub>+ CUDA · SQL · Google Earth Engine · Drupal · microservices · offline-first · data engineering · team leadership</sub>
 
@@ -105,15 +113,27 @@ status:             SHIPPING ▓▓▓▓▓▓▓▓░░
 
 <div align="center">
 
-<img width="100%" alt="contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sudo-karan&theme=react-dark&bg_color=0D1117&color=00FFA3&line=00FFA3&point=E8FFF4&area=true&hide_border=true&radius=12" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sudo-karan&theme=react-dark&bg_color=0D1117&color=CBBEF1&line=B49BF5&point=EDE7FB&area=true&hide_border=true&radius=12">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sudo-karan&theme=github-light&bg_color=FBFAFE&color=241A3D&line=6D48D7&point=4A3A78&area=true&hide_border=true&radius=12">
+  <img width="100%" alt="contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sudo-karan&theme=react-dark&bg_color=0D1117&color=CBBEF1&line=B49BF5&point=EDE7FB&area=true&hide_border=true&radius=12">
+</picture>
 
-<img alt="commit streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-karan&hide_border=true&background=0D1117&border=00A86B&stroke=00A86B&ring=00FFA3&fire=00FFA3&currStreakNum=E8FFF4&sideNums=E8FFF4&currStreakLabel=00FFA3&sideLabels=8B949E&dates=6E7681" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sudo-karan&hide_border=true&background=0D1117&border=0D1117&stroke=4A3A78&ring=B49BF5&fire=B49BF5&currStreakNum=EDE7FB&sideNums=EDE7FB&currStreakLabel=B49BF5&sideLabels=B8ADD9&dates=8B8299">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sudo-karan&hide_border=true&background=FBFAFE&border=FBFAFE&stroke=CBBEF1&ring=6D48D7&fire=6D48D7&currStreakNum=241A3D&sideNums=241A3D&currStreakLabel=6D48D7&sideLabels=5B5170&dates=6E6484">
+  <img alt="commit streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-karan&hide_border=true&background=0D1117&border=0D1117&stroke=4A3A78&ring=B49BF5&fire=B49BF5&currStreakNum=EDE7FB&sideNums=EDE7FB&currStreakLabel=B49BF5&sideLabels=B8ADD9&dates=8B8299">
+</picture>
 
 <br />
 
 <sub>the snake below eats my contribution graph on every push — a literal data stream:</sub>
 
-<img width="100%" alt="contribution snake animation" src="https://raw.githubusercontent.com/sudo-karan/sudo-karan/output/github-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudo-karan/sudo-karan/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudo-karan/sudo-karan/output/github-snake.svg">
+  <img width="100%" alt="contribution snake animation" src="https://raw.githubusercontent.com/sudo-karan/sudo-karan/output/github-snake-dark.svg">
+</picture>
 
 </div>
 
@@ -162,15 +182,19 @@ $ education --degrees
 [ ok ] handshake complete — socket open, say hi below
 ```
 
-<a href="https://karan98.in"><img alt="portfolio karan98.in" src="https://img.shields.io/badge/karan98.in-portfolio-00FFA3?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=031B12" /></a>
-<a href="https://www.linkedin.com/in/karan98"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-karan98-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=031B12" /></a>
-<a href="mailto:jaskaran.pta@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email-jaskaran.pta-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=031B12" /></a>
-<a href="https://github.com/sudo-karan"><img alt="github" src="https://img.shields.io/badge/GitHub-sudo--karan-E8FFF4?style=for-the-badge&logo=github&logoColor=white&labelColor=031B12" /></a>
+<a href="https://karan98.in"><img alt="portfolio karan98.in" src="https://img.shields.io/badge/karan98.in-portfolio-6D48D7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=241A3D" /></a>
+<a href="https://www.linkedin.com/in/karan98"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-karan98-6D48D7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=241A3D" /></a>
+<a href="mailto:jaskaran.pta@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email-jaskaran.pta-6D48D7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=241A3D" /></a>
+<a href="https://github.com/sudo-karan"><img alt="github" src="https://img.shields.io/badge/GitHub-sudo--karan-241A3D?style=for-the-badge&logo=github&logoColor=white&labelColor=241A3D" /></a>
 
 <br /><br />
 
 <sub><code># yes, the handle is a sudo pun. no, I won't apologize. it stays.</code></sub>
 
-<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA3,55:00A86B,100:031B12&height=150&section=footer&reversal=true&text=%24%20sudo%20karan%20--ship%20public-infrastructure&fontSize=26&fontColor=E8FFF4&animation=twinkling&descAlignY=62" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4A3A78,50:372A5A,100:241A3D&height=150&section=footer&reversal=true&text=%24%20sudo%20karan%20--ship%20public-infrastructure&fontSize=26&fontColor=EDE7FB&animation=twinkling&descAlignY=62">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:CBBEF1,50:DCD2F6,100:EDE7FB&height=150&section=footer&reversal=true&text=%24%20sudo%20karan%20--ship%20public-infrastructure&fontSize=26&fontColor=241A3D&animation=twinkling&descAlignY=62">
+  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A3A78,50:372A5A,100:241A3D&height=150&section=footer&reversal=true&text=%24%20sudo%20karan%20--ship%20public-infrastructure&fontSize=26&fontColor=EDE7FB&animation=twinkling&descAlignY=62">
+</picture>
 
 </div>
