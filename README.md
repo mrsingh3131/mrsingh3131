@@ -1,14 +1,10 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:241A3D,100:4A3A78&height=140&section=header&animation=none">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EDE7FB,100:CBBEF1&height=140&section=header&animation=none">
-  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:241A3D,100:4A3A78&height=140&section=header&animation=none">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:241A3D,100:4A3A78&height=230&section=header&text=Jaskaran%20Singh&fontSize=62&fontColor=EDE7FB&fontAlignY=38&animation=none&desc=public%20data%20infrastructure%20%C2%B7%20national%20scale%20%C2%B7%20and%20I%20still%20ship%20code&descSize=17&descAlignY=60">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EDE7FB,100:CBBEF1&height=230&section=header&text=Jaskaran%20Singh&fontSize=62&fontColor=241A3D&fontAlignY=38&animation=none&desc=public%20data%20infrastructure%20%C2%B7%20national%20scale%20%C2%B7%20and%20I%20still%20ship%20code&descSize=17&descAlignY=60">
+  <img width="100%" alt="Jaskaran Singh — building public data infrastructure at national scale" src="https://capsule-render.vercel.app/api?type=waving&color=0:241A3D,100:4A3A78&height=230&section=header&text=Jaskaran%20Singh&fontSize=62&fontColor=EDE7FB&fontAlignY=38&animation=none&desc=public%20data%20infrastructure%20%C2%B7%20national%20scale%20%C2%B7%20and%20I%20still%20ship%20code&descSize=17&descAlignY=60">
 </picture>
-
-# Jaskaran Singh
-
-<p><b>Assistant Director · NIC · MeitY</b> &nbsp;—&nbsp; I build India's Open Government Data platform, and still ship code</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=B49BF5&center=true&vCenter=true&width=920&height=62&lines=Assistant+Director+%40+NIC+%C2%B7+MeitY%2C+Govt+of+India;I+build+India%27s+Open+Government+Data+platform;PhD+candidate+%40+IIT+Delhi+%E2%80%94+geospatial+ML;Data+pipelines+at+national+scale...+and+I+still+ship+code;Now+shipping+an+air-gapped+RAG+stack+%E2%80%94+zero+egress">
@@ -195,14 +191,10 @@ $ education --degrees
 
 <sub><code># yes, the handle is a sudo pun. no, I won't apologize. it stays.</code></sub>
 
-<br />
-
-<sub><code>$ sudo karan --ship public-infrastructure</code></sub>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4A3A78,50:372A5A,100:241A3D&height=120&section=footer&reversal=true&animation=none">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:CBBEF1,50:DCD2F6,100:EDE7FB&height=120&section=footer&reversal=true&animation=none">
-  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A3A78,50:372A5A,100:241A3D&height=120&section=footer&reversal=true&animation=none">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4A3A78,50:372A5A,100:241A3D&height=150&section=footer&reversal=true&text=%24%20sudo%20karan%20--ship%20public-infrastructure&fontSize=26&fontColor=EDE7FB&animation=none&descAlignY=62">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:CBBEF1,50:DCD2F6,100:EDE7FB&height=150&section=footer&reversal=true&text=%24%20sudo%20karan%20--ship%20public-infrastructure&fontSize=26&fontColor=241A3D&animation=none&descAlignY=62">
+  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A3A78,50:372A5A,100:241A3D&height=150&section=footer&reversal=true&text=%24%20sudo%20karan%20--ship%20public-infrastructure&fontSize=26&fontColor=EDE7FB&animation=none&descAlignY=62">
 </picture>
 
 </div>
