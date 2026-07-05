@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:241A3D,100:4A3A78&height=230&section=header&text=Jaskaran%20Singh&fontSize=62&fontColor=EDE7FB&fontAlignY=38&animation=fadeIn&desc=public%20data%20infrastructure%20%C2%B7%20national%20scale%20%C2%B7%20and%20I%20still%20ship%20code&descSize=17&descAlignY=60">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EDE7FB,100:CBBEF1&height=230&section=header&text=Jaskaran%20Singh&fontSize=62&fontColor=241A3D&fontAlignY=38&animation=fadeIn&desc=public%20data%20infrastructure%20%C2%B7%20national%20scale%20%C2%B7%20and%20I%20still%20ship%20code&descSize=17&descAlignY=60">
-  <img width="100%" alt="Jaskaran Singh — building public data infrastructure at national scale" src="https://capsule-render.vercel.app/api?type=waving&color=0:241A3D,100:4A3A78&height=230&section=header&text=Jaskaran%20Singh&fontSize=62&fontColor=EDE7FB&fontAlignY=38&animation=fadeIn&desc=public%20data%20infrastructure%20%C2%B7%20national%20scale%20%C2%B7%20and%20I%20still%20ship%20code&descSize=17&descAlignY=60">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:241A3D,100:4A3A78&height=230&section=header&text=Jaskaran%20Singh&fontSize=62&fontColor=EDE7FB&fontAlignY=38&animation=none&desc=public%20data%20infrastructure%20%C2%B7%20national%20scale%20%C2%B7%20and%20I%20still%20ship%20code&descSize=17&descAlignY=60">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EDE7FB,100:CBBEF1&height=230&section=header&text=Jaskaran%20Singh&fontSize=62&fontColor=241A3D&fontAlignY=38&animation=none&desc=public%20data%20infrastructure%20%C2%B7%20national%20scale%20%C2%B7%20and%20I%20still%20ship%20code&descSize=17&descAlignY=60">
+  <img width="100%" alt="Jaskaran Singh — building public data infrastructure at national scale" src="https://capsule-render.vercel.app/api?type=waving&color=0:241A3D,100:4A3A78&height=230&section=header&text=Jaskaran%20Singh&fontSize=62&fontColor=EDE7FB&fontAlignY=38&animation=none&desc=public%20data%20infrastructure%20%C2%B7%20national%20scale%20%C2%B7%20and%20I%20still%20ship%20code&descSize=17&descAlignY=60">
 </picture>
 
 <picture>
@@ -192,9 +192,9 @@ $ education --degrees
 <sub><code># yes, the handle is a sudo pun. no, I won't apologize. it stays.</code></sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4A3A78,50:372A5A,100:241A3D&height=150&section=footer&reversal=true&text=%24%20sudo%20karan%20--ship%20public-infrastructure&fontSize=26&fontColor=EDE7FB&animation=twinkling&descAlignY=62">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:CBBEF1,50:DCD2F6,100:EDE7FB&height=150&section=footer&reversal=true&text=%24%20sudo%20karan%20--ship%20public-infrastructure&fontSize=26&fontColor=241A3D&animation=twinkling&descAlignY=62">
-  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A3A78,50:372A5A,100:241A3D&height=150&section=footer&reversal=true&text=%24%20sudo%20karan%20--ship%20public-infrastructure&fontSize=26&fontColor=EDE7FB&animation=twinkling&descAlignY=62">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4A3A78,50:372A5A,100:241A3D&height=150&section=footer&reversal=true&text=%24%20sudo%20karan%20--ship%20public-infrastructure&fontSize=26&fontColor=EDE7FB&animation=none&descAlignY=62">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:CBBEF1,50:DCD2F6,100:EDE7FB&height=150&section=footer&reversal=true&text=%24%20sudo%20karan%20--ship%20public-infrastructure&fontSize=26&fontColor=241A3D&animation=none&descAlignY=62">
+  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A3A78,50:372A5A,100:241A3D&height=150&section=footer&reversal=true&text=%24%20sudo%20karan%20--ship%20public-infrastructure&fontSize=26&fontColor=EDE7FB&animation=none&descAlignY=62">
 </picture>
 
 </div>
