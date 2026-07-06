@@ -1,11 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:241A3D,50:3A2C63,100:6D48D7&height=120&section=header&animation=none">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EDE7FB,50:CBBEF1,100:9B85EE&height=120&section=header&animation=none">
-  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:241A3D,50:3A2C63,100:6D48D7&height=120&section=header&animation=none">
-</picture>
-
 # Jaskaran Singh
 
 <b>Assistant Director · NIC · MeitY</b> &nbsp;·&nbsp; I build India's Open Government Data platform, and still ship code
@@ -198,11 +192,5 @@ $ education --degrees
 <br />
 
 <sub><code># yes, the handle is a sudo pun. no, I won't apologize. it stays.</code></sub>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6D48D7,50:3A2C63,100:241A3D&height=120&section=footer&reversal=true&animation=none">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:9B85EE,50:CBBEF1,100:EDE7FB&height=120&section=footer&reversal=true&animation=none">
-  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D48D7,50:3A2C63,100:241A3D&height=120&section=footer&reversal=true&animation=none">
-</picture>
 
 </div>
